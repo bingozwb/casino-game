@@ -11,14 +11,6 @@
     "truffle-hdwallet-provider": "0.0.6",
     "web3": "^1.0.0-beta.35"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/OriginSport/casino-game.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/OriginSport/casino-game/issues"
-  },
-  "homepage": "https://github.com/OriginSport/casino-game#readme"
+  "license": "ISC"
 }
